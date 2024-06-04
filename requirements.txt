@@ -1,4 +1,6 @@
 streamlit
-numpy
-opencv-python
-pandas
+sqlmodel
+requests
+passlib
+python-dotenv
+
